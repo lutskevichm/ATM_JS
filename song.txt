@@ -2,3 +2,4 @@ a half of the text of my favorite song
 the second half of song text
 
 a line for commit1
+a line for commit2
